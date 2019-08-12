@@ -1,2 +1,2 @@
-# gotour
-Completed exercises from tour.golang.org.
+# go
+Completed exercises from tour.golang.org and miscellaneous go programs.
